@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5a30002c0b99b863b158b6981c40504461cb4e21",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-14 04:43:54",
+    "files": 5,
+    "merge": false,
+    "message": "fix links in readme and a man file\n"
+  },
+  "remote": "https://github.com/ropensci/pangaear",
+  "pkg": "pangaear"
+}
