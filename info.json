@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "98de95524ea10e21142571ddbf9b16989f64fb8c",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2022-11-17 20:29:54",
+    "files": 3,
+    "merge": false,
+    "message": "change cranchecks badge\n"
+  },
+  "repo": "https://github.com/ropensci/pangaear",
+  "pkg": "pangaear"
+}
