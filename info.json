@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e2c8d9e4ac85ea92a6aae776fdc1fb984762a133",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-01-17T10:24:14Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix typo\n"
+  },
+  "repo": "https://github.com/ropensci/pangaear",
+  "pkg": "pangaear",
+  "time": "2026-08-30T07:50:11Z"
+}
